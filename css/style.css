@@ -74,12 +74,12 @@ td{
 
 
 .colhead{
-  color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
-  background-color: #7e0825;
+  color: #FFFFFF;
   text-align: center;
   text-transform: uppercase;
+  background-color: #7e0825;
 }
 
 .rowhead {
