@@ -121,7 +121,7 @@ tr:last-child .rowhead {
 
 tr:nth-child(even)    { background-color:#D1D1D1; }
 tr:hover{
-  background: rgba(128, 8, 37, 0.25)
+  background: rgba(126, 8, 37, 0.25)
 }
 
 footer{
